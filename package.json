@@ -1,0 +1,22 @@
+{
+  "name": "employee-directory-build.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dglassick/employee-directory-build.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dglassick/employee-directory-build.github.io/issues"
+  },
+  "homepage": "https://github.com/dglassick/employee-directory-build.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
